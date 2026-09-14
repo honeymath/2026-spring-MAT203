@@ -182,15 +182,15 @@ Lecture notes are organized by topic and will be added throughout the semester.
 
 ### Chapter 1: Matrix Computation Strategies
 
-- [Lecture 1: Matrix Arithmetic](notes/matrix-arithmetic.md) — Three views of $AB=C$, ingredient table interpretation
-- [Lecture 2: Matrix Equations and Row Operations](notes/matrix-equations.md) — Concept redefinition, row/column operations, solving equations, matrix inverses
-- [Lecture 3: Cross-Filling Method](notes/cross-filling.md) — Rank-one decomposition, cross-filling algorithm, sum ↔ product equivalence (A = ΣRᵢ ⟺ A = UV), rank definition (not yet well-defined) — **[📺 Video](https://youtu.be/HvFnAyk-Qtk)**
+- [Lecture 1: Matrix Arithmetic](notes/matrix-arithmetic.md) — Three views of $AB=C$, ingredient table interpretation — **[Slides](files/lecture01-02-row-column-operations.pdf)**
+- [Lecture 2: Matrix Equations and Row Operations](notes/matrix-equations.md) — Concept redefinition, row/column operations, solving equations, matrix inverses — **[Slides](files/lecture01-02-row-column-operations.pdf)**
+- [Lecture 3: Cross-Filling Method](notes/cross-filling.md) — Rank-one decomposition, cross-filling algorithm, sum ↔ product equivalence (A = ΣRᵢ ⟺ A = UV), rank definition (not yet well-defined) — **[📺 Video](https://youtu.be/HvFnAyk-Qtk)** — **[Slides](files/lecture03-cross-filling.pdf)**
 
 ### Chapter 2: Vector Spaces and Subspaces
 
-- [Lecture 4: Subspace and Linear Independence](notes/subspace-and-linear-independence.md) — Two languages (descriptive vs constructive), subspaces, column space, linear independence, basis, dimension, well-definedness of rank
-- [Lecture 5: Solving Linear Equations and Null Space](notes/solving-equations-null-space.md) — Cross-filling method for solving $Ax=b$, null space (descriptive ↔ constructive), existence and uniqueness criteria, rank-nullity theorem preview
-- [Lecture 6: Four Fundamental Subspaces](notes/four-fundamental-subspaces.md) — Subspaces of matrix products, transpose and symmetric matrices, orthogonality relationships ($\operatorname{Col}(A^T) \perp \operatorname{Null}(A)$, $\operatorname{Col}(A) \perp \operatorname{Null}(A^T)$), rank = row rank = column rank
+- [Lecture 4: Subspace and Linear Independence](notes/subspace-and-linear-independence.md) — Two languages (descriptive vs constructive), subspaces, column space, linear independence, basis, dimension, well-definedness of rank — **[Slides](files/lecture04-subspace-independence.pdf)**
+- [Lecture 5: Solving Linear Equations and Null Space](notes/solving-equations-null-space.md) — Cross-filling method for solving $Ax=b$, null space (descriptive ↔ constructive), existence and uniqueness criteria, rank-nullity theorem preview — **[Slides](files/lecture05-solving-equations-null-space.pdf)**
+- [Lecture 6: Four Fundamental Subspaces](notes/four-fundamental-subspaces.md) — Subspaces of matrix products, transpose and symmetric matrices, orthogonality relationships ($\operatorname{Col}(A^T) \perp \operatorname{Null}(A)$, $\operatorname{Col}(A) \perp \operatorname{Null}(A^T)$), rank = row rank = column rank — **[Slides](files/lecture06-four-fundamental-subspaces.pdf)**
 
 ### Chapter 3: Linear Transformations and Projections
 
